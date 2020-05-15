@@ -13,3 +13,4 @@ Este repositório serve de exemplo para o curso de Git e Github.
 
 **git pull** - Traz as alterações(commits) de seu repositório remoto para seu repositório(branch) local.
 
+**git branch < nome_da_branch >** - Cria uma nova branch à partir da que você está, use "git checkout nome_da_branch" para ir para a branch criada.
